@@ -15,9 +15,11 @@ A production-grade, highly optimized collection of foundational and advanced arr
 ## Program sturctured 
 * *create array.cpp*: To create array using arrays concepts and algorithm.
 
-* *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
-
 * *max-minvalue of array.cpp*: To find the maximum and minimum value of elements of the array using simple core arrays concept.
+
+* *median of array.cpp*: To calculate the find the median of an array using arrays and basics mathematics concepts.
+
+* *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
 
 
 ## 📁 Architecture
