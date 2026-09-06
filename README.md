@@ -19,6 +19,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *median of array.cpp*: To calculate the find the median of an array using arrays and basics mathematics concepts.
 
+* *random value generator.cpp*: Generate random value using (time(null)) concept of c++ and fill the element of array with random values using arrays concept.
+
 * *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
 
 
