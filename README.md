@@ -21,6 +21,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *random value generator.cpp*: Generate random value using (time(null)) concept of c++ and fill the element of array with random values using arrays concept.
 
+* *search index value.cpp*: To found the index number of a given key value using arrays searching concept.
+
 * *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
 
 
