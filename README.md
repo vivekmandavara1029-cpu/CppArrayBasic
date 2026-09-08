@@ -21,6 +21,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *random value generator.cpp*: Generate random value using (time(null)) concept of c++ and fill the element of array with random values using arrays concept.
 
+* *reverse of an array.cpp*:  array reversal is the process of changing the order of elements in an array so that the first element becomes the last, the second becomes the second-to-last, and so on, until the original last element becomes the first.
+
 * *search index value.cpp*: To found the index number of a given key value using arrays searching concept.
 
 * *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
