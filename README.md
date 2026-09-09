@@ -25,6 +25,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *search index value.cpp*: To found the index number of a given key value using arrays searching concept.
 
+* *sorting the array.cpp*:An array sorting program is a reusable block of code designed to systematically rearrange a collection of elements (numbers, strings, or objects) into a specific sequence either ascending or descending—so that the data becomes easier to search, analyze, and optimize.
+
 * *sum_and_avg of array.cpp*: To find and calculate the sum and the average of element of the array using simple arrays concept.
 
 
