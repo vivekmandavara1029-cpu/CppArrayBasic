@@ -1,3 +1,4 @@
+
 # CppArrayBasic
 A foundational collection of core array concepts, manipulations, and basic operations ( like traversing , sorting , inserting , searching and merging ) implemented in C++.
 welcome to the *CppArrayBasic*!... this repository is a dedicated for foundamental concepets of c++ , basics of data structured algorithm ,and competative programming.
@@ -14,6 +15,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 ## Program sturctured 
 * *create array.cpp*: To create array using arrays concepts and algorithm.
+
+* *deletion in array.cpp*: To delete the value of the element of array using shifting and basic loops concept.
 
 * *max-minvalue of array.cpp*: To find the maximum and minimum value of elements of the array using simple core arrays concept.
 
