@@ -22,6 +22,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *median of array.cpp*: To calculate the find the median of an array using arrays and basics mathematics concepts.
 
+* *merge 2 array.cpp*: An array merging program is a sequence of instructions that combines all the elements of two separate arrays into a single, brand-new third array is fill in a specific order.
+
 * *random value generator.cpp*: Generate random value using (time(null)) concept of c++ and fill the element of array with random values using arrays concept.
 
 * *reverse of an array.cpp*:  array reversal is the process of changing the order of elements in an array so that the first element becomes the last, the second becomes the second-to-last, and so on, until the original last element becomes the first.
