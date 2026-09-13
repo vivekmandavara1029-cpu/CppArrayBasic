@@ -16,6 +16,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 ## Program sturctured 
 * *create array.cpp*: To create array using arrays concepts and algorithm.
 
+* *create character_array.cpp*:To create a two-dimensional (2D) character array is a data structure arranged in rows and columns that stores multiple characters or strings.
+
 * *deletion in array.cpp*: To delete the value of the element of array using shifting and basic loops concept.
 
 * *max-minvalue of array.cpp*: To find the maximum and minimum value of elements of the array using simple core arrays concept.
