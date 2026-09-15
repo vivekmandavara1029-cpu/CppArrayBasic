@@ -1,4 +1,3 @@
-
 # CppArrayBasic
 A foundational collection of core array concepts, manipulations, and basic operations ( like traversing , sorting , inserting , searching and merging ) implemented in C++.
 welcome to the *CppArrayBasic*!... this repository is a dedicated for foundamental concepets of c++ , basics of data structured algorithm ,and competative programming.
@@ -19,6 +18,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 * *create character_array.cpp*:To create a two-dimensional (2D) character array is a data structure arranged in rows and columns that stores multiple characters or strings.
 
 * *deletion in array.cpp*: To delete the value of the element of array using shifting and basic loops concept.
+
+* *find all about name.cpp*: A Name Analyzer Program or all about name is a text-processing utility designed to input a string representing a name, parse its character data, and calculate specific linguistic metrics including total character count, spacing, lexical density (word count), and vowel frequency.
 
 * *find palindrome name in string.cpp*: A palindrome string is defined as a sequence of characters that reads the same forward and backward. To find or check if a name (or any string) is a palindrome, you compare its original structure with its reversed version.
 
