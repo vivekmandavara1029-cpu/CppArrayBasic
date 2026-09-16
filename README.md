@@ -33,6 +33,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *reverse of an array.cpp*:  array reversal is the process of changing the order of elements in an array so that the first element becomes the last, the second becomes the second-to-last, and so on, until the original last element becomes the first.
 
+* *reverse of string.cpp*: the character array reversal is the process of changing the order of elements in a character array(string) so that the first element becomes the last, the second becomes the second-to-last, and so on, until the original last element becomes the first.
+
 * *search index value.cpp*: To found the index number of a given key value using arrays searching concept.
 
 * *searching with binary search.cpp*: Binary search is an efficient search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half. it is the most shortest/approciate method to find the element of an array.
