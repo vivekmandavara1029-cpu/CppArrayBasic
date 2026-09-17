@@ -21,6 +21,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *find all about name.cpp*: A Name Analyzer Program or all about name is a text-processing utility designed to input a string representing a name, parse its character data, and calculate specific linguistic metrics including total character count, spacing, lexical density (word count), and vowel frequency.
 
+* *find largest-smallest name.cpp*: To find the largest and smallest strings (names) in a two-dimensional character array, you can compare string lengths or use lexicographical order with standard string functions.
+
 * *find palindrome name in string.cpp*: A palindrome string is defined as a sequence of characters that reads the same forward and backward. To find or check if a name (or any string) is a palindrome, you compare its original structure with its reversed version.
 
 * *max-minvalue of array.cpp*: To find the maximum and minimum value of elements of the array using simple core arrays concept.
