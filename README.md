@@ -33,6 +33,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *random value generator.cpp*: Generate random value using (time(null)) concept of c++ and fill the element of array with random values using arrays concept.
 
+* *remove_spaces.cpp*: To remove the spaces inside a string by replacing the space characters with an empty value using replacement methods and basic loops algorithm.
+
 * *reverse of an array.cpp*:  array reversal is the process of changing the order of elements in an array so that the first element becomes the last, the second becomes the second-to-last, and so on, until the original last element becomes the first.
 
 * *reverse of string.cpp*: the character array reversal is the process of changing the order of elements in a character array(string) so that the first element becomes the last, the second becomes the second-to-last, and so on, until the original last element becomes the first.
