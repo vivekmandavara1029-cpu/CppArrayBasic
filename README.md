@@ -15,6 +15,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 ## Program sturctured 
 * *create array.cpp*: To create array using arrays concepts and algorithm.
 
+* *create 2d array.cpp*: A two-dimensional (2D) array is a data structure that stores data in a tabular format, meaning it is organized into rows and columns like a grid or a matrix. A 2D array is defined as an "array of arrays," where every single row is itself a separate one-dimensional array. this is also known as multi dimensional array.
+
 * *create character_array.cpp*:To create a two-dimensional (2D) character array is a data structure arranged in rows and columns that stores multiple characters or strings.
 
 * *deletion in array.cpp*: To delete the value of the element of array using shifting and basic loops concept.
