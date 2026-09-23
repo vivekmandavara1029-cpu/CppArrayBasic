@@ -31,6 +31,8 @@ A production-grade, highly optimized collection of foundational and advanced arr
 
 * *find unique name.cpp*: A program that finds uncommon names not ending with 'i', 'a', or 'y' is a text-filtering algorithm designed to isolate specific string values from a list based on their final characters.
 
+* *insert value in array.cpp*: Inserting value in a sorted array is a programming operation where a new element (the "key value ") is placed into an already sorted array in the correct position so that the array remains sorted after the insertion.
+
 * *max-minvalue of array.cpp*: To find the maximum and minimum value of elements of the array using simple core arrays concept.
 
 * *median of array.cpp*: To calculate the find the median of an array using arrays and basics mathematics concepts.
